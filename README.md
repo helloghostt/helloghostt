@@ -1,6 +1,7 @@
 👋 Hi, I’m Park ChoRong(박초롱) <br>
 
-😄 Pronouns: She/Her
+😄 Pronouns: She/Her <br>
+
 👀 I’m interested in
 * Artificial Intelligence
 * Backend Development
