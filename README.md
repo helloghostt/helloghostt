@@ -9,6 +9,7 @@
 * Mathematics Education <br>
 
 >🌱 I’m currently learning
+* Artificial Intelligence
 * Development <br>
 
 
