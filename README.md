@@ -15,8 +15,8 @@
 * Backend Development Projects
 * Developing Educational Content for Mathematics <br>
 
-⚡ Stack
-|Stack |
+⚡ Stack <br>
+| Stack              |
 |---------|----------|
 |Fronten | HTML/CSS JavaScript  |
 |Backend |  Python Django MySQL |
