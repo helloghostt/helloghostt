@@ -4,20 +4,19 @@
 
 
 >👀 I’m interested in
-* Artificial Intelligence
-* Backend Development
-* Mathematics Education <br>
-
->🌱 I’m currently learning
-* Artificial Intelligence
-* Development <br>
-
+* Artificial Intelligence | AI
+* Backend Development | 백엔드개발
+* Mathematics Education | 수학교육<br>
 
 >💞️ I’m looking to collaborate on 
 * AI Projects 
 * Backend Development Projects
 * Developing Educational Content for Mathematics <br>
 
+>🔭 Certificate
+* Secondary school Teacher in Mathematics (Master´s degree) | 수학교육석사학위, 중등교원자격증(수학) 
+* Artificial Intelligence Engineering (Bachelor's Degree) | 인공지능 공학학사학위
+* Computerized Accounting (KcLep system) | 전산회계KcLep 자격증 <br> 
 
 > ⚡ STACKS
 * Frontend <br>
@@ -30,3 +29,5 @@
 
 > 📫 How to reach me <br>
       <a href="https://www.linkedin.com/in/mathdev-park"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+🌱
