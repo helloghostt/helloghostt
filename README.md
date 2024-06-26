@@ -1,4 +1,5 @@
->👋 Hi, I’m **Park ChoRong(박초롱)** <br>
+
+>👋 Hi, I’m **Park ChoRong(박초롱)** <br>🌱
 
 >😄 Pronouns: She/Her <br>
 
@@ -31,4 +32,5 @@
       &nbsp;&nbsp;
       <a href="https://helloghostt.github.io"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
 
-🌱
+
+![helloghostt's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloghostt&show_icons=true&theme=tokyonight) ![helloghostt profile](http://mazandi.herokuapp.com/api?handle={helloghostt}&theme=ruby5)
