@@ -36,5 +36,5 @@
       <a href="https://helloghostt.github.io"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=helloghostt&show_icons=true&theme=tokyonight" height="200"> <img src="http://mazandi.herokuapp.com/api?handle=helloghostt&theme=dark" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=helloghostt&show_icons=true&theme=tokyonight" height="200px">
 
